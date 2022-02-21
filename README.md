@@ -14,4 +14,4 @@ Design and implement a class representing a sorted doubly linked list. The class
 
 Write a menu-driven program to test all the functions in your class ,including the copy constructor and the operator= 
 To test your iterators, include in your menu options to print in ascending or descending order.
-![image](https://user-images.githubusercontent.com/76651649/116139149-5ee5c880-a6de-11eb-87c8-4e09eba65ade.png)
+<!-- ![image](https://user-images.githubusercontent.com/76651649/116139149-5ee5c880-a6de-11eb-87c8-4e09eba65ade.png) -->
