@@ -5,7 +5,8 @@ Date:   Oct 31th, 2020
  Purpose: Test the doubly list class using a menu driveen 
  program  
 Input: user’s choice to perform an operation           
- Output: menu of choices and results of user’s operations.        ***************************************************************/
+ Output: menu of choices and results of user’s operations.        
+ ***************************************************************/
 
 // printMenu displays a menu of choices and returns the user's choice
  
