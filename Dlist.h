@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std::cout, std::cin, std::string, std::endl;
 
 /******************************************************
 Programmer: Omer Mustel                 
